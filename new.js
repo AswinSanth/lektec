@@ -1,0 +1,4 @@
+const sum = () => {
+  console.log('This is a sum function');
+};
+

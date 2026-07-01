@@ -3,4 +3,5 @@ const greet = () => {
 };
 
 // git init               -- to intialize git
-// 
+// git add .              -- to add all files
+//git add filename        -- to add certain files
